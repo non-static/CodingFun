@@ -1,0 +1,4 @@
+_site/*
+vendor
+*Thumbs.db
+Gemfile.lock

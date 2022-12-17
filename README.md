@@ -1,4 +1,4 @@
-## Welcome to Math Problem Site!
+## Welcome to Coding Fun Site!
 
 This site is just for you guys! Questions will publish weekly and we will discuss them when we have time in the week. 
 
@@ -8,7 +8,7 @@ Find some time, finish your question for the day. Keep the result somewhere for 
 
 ### What You Will Get
 
-Confidence to MATH!
+Fun from solving coding questions!
 
 ### Contact Me Whenever Need Help
 
